@@ -10,5 +10,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dynrbni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dynrbni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deanrabbani20@gmail.com) 
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001967.13189dff0c4a41d4a6279d714537ca5c.1846)](https://music-profile.rayriffy.com)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001967.13189dff0c4a41d4a6279d714537ca5c.1846)](https://music-profile.rayriffy.com)
+
 [![](https://visitcount.itsvg.in/api?id=dynrbni&icon=0&color=0)](https://visitcount.itsvg.in)
 ###

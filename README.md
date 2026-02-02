@@ -1,19 +1,16 @@
-<h1 align="center">Yo 👋, I'm Dean</h1>
-<h3 align="center">Student • Developer • UI/UX Enthusiast</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_LU&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/dynrbni/dynrbni/main/header.png" alt="header" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 SMK RPL Student  
-- 💻 Frontend Developer (React / Next.js)  
-- 🎨 Interested in UI/UX Design  
-- ⚡ Love building clean & modern interfaces  
-- 🚀 Currently building real projects, not tutorials
+- 🎓 SMK Taruna Bhakti Students
+- 💻 Web Fullstack Developers
+- 🎨 UI/UX Design Enthusiast
+- 🚀 Currently building real projects, not tutorials 
+- 🎶 JINZOU FAIYA FAIBO WAIPA!!!
 
 ---
 
@@ -124,20 +121,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LU&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 - Instagram: @dynrbni  
-- Portfolio: dyn.codes
+- Portfolio: www.dyn.codes
 - Email: deanrabbani20@gmail.com 

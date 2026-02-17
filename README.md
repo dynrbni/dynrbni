@@ -120,9 +120,5 @@
 </p>
 
 ---
-
-### 🌐 Connect With Me
-
-- Instagram: @dynrbni  
-- Portfolio: www.dyn.codes
-- Email: deanrabbani20@gmail.com 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001967.13189dff0c4a41d4a6279d714537ca5c.1846)](https://music-profile.rayriffy.com)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001967.13189dff0c4a41d4a6279d714537ca5c.1846)](https://music-profile.rayriffy.com)
